@@ -1,0 +1,44 @@
+pasar para ejecutar al pasar 
+requirements
+readme
+src
+main.py
+     TIPOS DE DATOS PY
+string-cadenas de caracteres> ¨¨ lo que este adentro es un string
+first_name=¨Carlos¨ string igualado a una variable
+second_name=´Äntonio´ 
+last_name=¨tovar¨
+
+BUILT-IN Functions(py-metodos)
+-Print() funciona para imprimir en pantalla
+-dir
+-input
+-den
+FOR 
+for motocycle in motocycles: print(motocycle)
+
+LISTAS
+las listas son elementos mutable(se les puede cambiar el tamnaño)- .appendnombrelistaapend("Variable a agregar")
+                                                           inserrc("1,nv")
+.poo(posicion de la variable que quieres eliminar)
+append
+first_name="Isaac"
+midle_name="Daniel"
+last_name="Garcia Guel"
+motocycles=[Italikaa, bmw, kawasaki]
+fullname=first_name+midle_name+last_name
+
+print(motocycles(1)),
+
+DICCIONARIOS-(se componen de una llave y un valor "key,value")- 
+EJEMPLO DE TEMPERATURA 
+sensors={temperatura:40, ´humeda´:90}
+{} , dic() 
+sensors={´temperatura:40, ´humeda´:90}
+print(sensors)
+
+first_name=¨Isaac¨
+midle_name=¨Daniel¨
+last_name=¨Garcia Guel¨
+print(first_name,midle_name)
+print(last_name)

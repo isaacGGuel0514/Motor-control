@@ -1,0 +1,21 @@
+pasar para ejecutar al pasar 
+requirements
+readme
+src
+main.py
+     tipos de datos py
+string-cadenas de caracteres> ¨¨ lo que este adentro es un string
+first_name=¨Carlos¨ string igualado a una variable
+second_name=´Äntonio´ 
+last_name=¨tovar¨
+
+BUILT-IN Functions(py-metodos)
+-Print() funciona para imprimir en pantalla
+-
+
+
+first_name=¨Isaac¨
+midle_name=¨Daniel¨
+last_name=¨Garcia Guel¨
+print(first_name,midle_name)
+print(last_name)

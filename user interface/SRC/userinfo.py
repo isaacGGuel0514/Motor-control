@@ -1,0 +1,16 @@
+Isaac={ "firsrtname": "Isaac",
+        "lastname": "Guel",
+          "age":21, "height":194,
+            "weight":"100-kg", 
+            "bloodtype": "o+", 
+            "skincolor": "lowbrown",
+              "eyescolor": "café_obscuro",
+              "birth": "14 may 2003",
+                "curp":"GAGI030514HTSRLSA5", 
+                "hoobies":"go to gym and study",
+                "favoritemovie": "interestellar", 
+                "miedos": "i¨m a cience man my only enemie is the time",
+                  "gustos musicales":"rock and hmetal para gym-country estadounidense para viajar y narcocorridos cuando voy a mi pueblo",
+                    "estado": "soltero",
+                    "favoritemeal": "hamburguers",}
+print(Isaac["birth"])  

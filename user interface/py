@@ -1,0 +1,6 @@
+first_name=¨Isaac¨
+midle_name=¨Daniel¨
+last_name=¨Garcia Guel¨
+print(first_name,midle_name)
+print(last_name)
+
