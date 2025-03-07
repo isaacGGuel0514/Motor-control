@@ -1,0 +1,2 @@
+Isaac={"edad":21, "estatura":194, "peso":"100-kg",  "color de piel":"aperlado", "color de ojos": "café_obscuro","fecha de nacimiento": "14-de-mayo_de_2003", "curp":"GAGI030514HTSRLSA5", "pasatiempos":"ir_al_gym_y_repasar_temas_de_la_uni","pelicula favoita": "interestellar", "miedos": "soy_un_hombre_de ciencia le temo al tiempo y a los rayos tambien", "gustos musicales":"rock y hmetal para gym-country estadounidense para viajar y narcocorridos cuando voy a mi pueblo", "estado": "soltero","comida favorita": "hamburguesas",}
+print(Isaac["fecha de nacimiento"])       

@@ -16,6 +16,23 @@ BUILT-IN Functions(py-metodos)
 
 first_name=¨Isaac¨
 midle_name=¨Daniel¨
-last_name=¨Garcia Guel¨
+last_name=¨Garcia Guel
 print(first_name,midle_name)
 print(last_name)
+
+GIT
+Rama master 
+version mas actualizada de tu codigo
+git config --global
+git config -- global init.defaultBranch
+
+OTA UPDATES(OVER THE AIR)
+Por medio de giy hub se hace un push main para ingresar una actualizacion via remota
+
+
+Ptoyecto 1
+dashboard indicando 
+thing midiendo cosas
+
+PORYECTO 2
+CONTROL DE ACCESO
